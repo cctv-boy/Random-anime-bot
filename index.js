@@ -94,7 +94,7 @@ bot.action('random', (ctx) => {
                         { text: 'Get again random anime  🔁', callback_data: 'random' },
                         { text: 'Link  👉', url: animeData.link}
                     ],
-                    [{ text: 'Subscribe to my Instagram', url: '' }],
+                    [{ text: 'Subscribe to my Instagram', url: 'https://instagram.com/' }],
                 ]
             }
 
